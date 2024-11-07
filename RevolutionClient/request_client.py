@@ -1,4 +1,4 @@
-from RevolutionClient.utils.constants import host, port
+from ..RevolutionClient.utils.constants import host, port
 import requests
 
 class RevolutionRequest:
