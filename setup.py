@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='RevolutionClient',
-    version='alpha-0.0.1',
+    version='0.0.1a0',
     packages=find_packages(),
     install_requires=[
         'python-socketio==5.11.4',
