@@ -1,5 +1,5 @@
 from socketio import Client
-from ..utils.constants import host, port
+from RevolutionClient.utils.constants import host, port
 
 class WebsocketHandler:
     def __init__(self):
