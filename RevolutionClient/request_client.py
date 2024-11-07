@@ -1,5 +1,6 @@
-from .utils.constants import host, port
+from RevolutionClient.utils.constants import host, port
 import requests
+
 class RevolutionRequest:
     def __init__(self, token = None):
         self.token = token
