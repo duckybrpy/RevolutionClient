@@ -1,5 +1,5 @@
-from RevolutionClient.request_client import RevolutionRequest
-from RevolutionClient.ws.RevolutionWS import Socket
+from .request_client import RevolutionRequest
+from .ws.RevolutionWS import Socket
 
 
 class RevolutinClient(Socket):
