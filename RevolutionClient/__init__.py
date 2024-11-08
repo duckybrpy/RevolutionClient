@@ -1,3 +1,3 @@
-from RevolutionClient.RevolutionClient import RevolutinClient
-from RevolutionClient.ws.RevolutionWS import Socket
+from .RevolutionClient import RevolutinClient
+from .ws.RevolutionWS import Socket
 from .utils.constants import *
