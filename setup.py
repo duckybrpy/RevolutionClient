@@ -13,7 +13,7 @@ setup(
     author='DuckyBR',
     author_email='',
     url='https://github.com/duckybrpy/revolutionclient',  
-    #download_url="https://github.com/duckybrpy/RevolutionClient/releases/download/Teste/RevolutionClient.zip",
+    download_url="https://github.com/duckybrpy/RevolutionClient/releases/download/Teste/RevolutionClient.zip",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
