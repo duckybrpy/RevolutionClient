@@ -1,5 +1,6 @@
 from RevolutionClient.request_client import RevolutionRequest
 from RevolutionClient.ws.RevolutionWS import Socket
+from RevolutionClient.utils import *
 
 class RevolutinClient(Socket):
     def __init__(self, token):
